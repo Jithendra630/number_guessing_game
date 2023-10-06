@@ -1,1 +1,1 @@
-# number_guessing_game
+This Python program is a number guessing game. It generates a random number between 1 and 100 and allows the player to guess the number. The player can choose between easy and hard difficulty levels, which determine the number of allowed attempts. The game continues until the player guesses the correct number or runs out of attempts.
